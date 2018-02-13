@@ -23,3 +23,5 @@ pod "Segment-Optimizely-X"
 ## License
 
 Segment-Optimizely-X is available under the MIT license. See the LICENSE file for more info.
+
+To learn more on Optimizely plans, visit: [https://www.optimizely.com/plans/](https://www.optimizely.com/plans/)
